@@ -1,0 +1,3 @@
+C:/Users/tetel/CLionProjects/boeres1/cmake-build-debug/CMakeFiles/boeres1.dir
+C:/Users/tetel/CLionProjects/boeres1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tetel/CLionProjects/boeres1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

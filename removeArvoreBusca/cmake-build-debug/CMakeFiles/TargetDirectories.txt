@@ -1,0 +1,3 @@
+C:/Users/tetel/CLionProjects/removeArvoreBusca/cmake-build-debug/CMakeFiles/removeArvoreBusca.dir
+C:/Users/tetel/CLionProjects/removeArvoreBusca/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tetel/CLionProjects/removeArvoreBusca/cmake-build-debug/CMakeFiles/rebuild_cache.dir

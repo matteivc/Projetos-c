@@ -1,0 +1,3 @@
+C:/Users/tetel/CLionProjects/hello_word/cmake-build-debug/CMakeFiles/hello_word.dir
+C:/Users/tetel/CLionProjects/hello_word/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tetel/CLionProjects/hello_word/cmake-build-debug/CMakeFiles/rebuild_cache.dir

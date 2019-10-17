@@ -1,0 +1,3 @@
+C:/Users/tetel/CLionProjects/ED/cmake-build-debug/CMakeFiles/esqueleto-pop.dir
+C:/Users/tetel/CLionProjects/ED/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tetel/CLionProjects/ED/cmake-build-debug/CMakeFiles/rebuild_cache.dir

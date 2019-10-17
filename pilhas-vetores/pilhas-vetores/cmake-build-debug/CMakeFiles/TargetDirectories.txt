@@ -1,0 +1,3 @@
+C:/Users/tetel/CLionProjects/pilhas-vetores/pilhas-vetores/cmake-build-debug/CMakeFiles/pilhas_vetores.dir
+C:/Users/tetel/CLionProjects/pilhas-vetores/pilhas-vetores/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tetel/CLionProjects/pilhas-vetores/pilhas-vetores/cmake-build-debug/CMakeFiles/rebuild_cache.dir

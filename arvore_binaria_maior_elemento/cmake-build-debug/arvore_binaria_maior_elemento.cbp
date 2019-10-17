@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="arvore_binaria_maior_elemento"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/tetel/CLionProjects/arvore_binaria_maior_elemento/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tetel/CLionProjects/arvore_binaria_maior_elemento/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tetel/CLionProjects/arvore_binaria_maior_elemento/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tetel/CLionProjects/arvore_binaria_maior_elemento/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tetel/CLionProjects/arvore_binaria_maior_elemento/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="arvore_binaria_maior_elemento">
+				<Option output="C:/Users/tetel/CLionProjects/arvore_binaria_maior_elemento/cmake-build-debug/arvore_binaria_maior_elemento.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/tetel/CLionProjects/arvore_binaria_maior_elemento/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tetel/CLionProjects/arvore_binaria_maior_elemento/cmake-build-debug/Makefile&quot;  VERBOSE=1 arvore_binaria_maior_elemento"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tetel/CLionProjects/arvore_binaria_maior_elemento/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tetel/CLionProjects/arvore_binaria_maior_elemento/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tetel/CLionProjects/arvore_binaria_maior_elemento/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="arvore_binaria_maior_elemento/fast">
+				<Option output="C:/Users/tetel/CLionProjects/arvore_binaria_maior_elemento/cmake-build-debug/arvore_binaria_maior_elemento.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/tetel/CLionProjects/arvore_binaria_maior_elemento/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tetel/CLionProjects/arvore_binaria_maior_elemento/cmake-build-debug/Makefile&quot;  VERBOSE=1 arvore_binaria_maior_elemento/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tetel/CLionProjects/arvore_binaria_maior_elemento/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tetel/CLionProjects/arvore_binaria_maior_elemento/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tetel/CLionProjects/arvore_binaria_maior_elemento/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/tetel/CLionProjects/arvore_binaria_maior_elemento/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tetel/CLionProjects/arvore_binaria_maior_elemento/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tetel/CLionProjects/arvore_binaria_maior_elemento/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tetel/CLionProjects/arvore_binaria_maior_elemento/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tetel/CLionProjects/arvore_binaria_maior_elemento/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/tetel/CLionProjects/arvore_binaria_maior_elemento/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tetel/CLionProjects/arvore_binaria_maior_elemento/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tetel/CLionProjects/arvore_binaria_maior_elemento/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tetel/CLionProjects/arvore_binaria_maior_elemento/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tetel/CLionProjects/arvore_binaria_maior_elemento/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/tetel/CLionProjects/arvore_binaria_maior_elemento/arvore-binaria.c">
+			<Option target="arvore_binaria_maior_elemento"/>
+		</Unit>
+		<Unit filename="C:/Users/tetel/CLionProjects/arvore_binaria_maior_elemento/arvore-binaria.h">
+			<Option target="arvore_binaria_maior_elemento"/>
+		</Unit>
+		<Unit filename="C:/Users/tetel/CLionProjects/arvore_binaria_maior_elemento/main.c">
+			<Option target="arvore_binaria_maior_elemento"/>
+		</Unit>
+		<Unit filename="C:/Users/tetel/CLionProjects/arvore_binaria_maior_elemento/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

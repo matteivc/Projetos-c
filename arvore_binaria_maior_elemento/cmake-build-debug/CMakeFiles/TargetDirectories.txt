@@ -1,0 +1,3 @@
+C:/Users/tetel/CLionProjects/arvore_binaria_maior_elemento/cmake-build-debug/CMakeFiles/arvore_binaria_maior_elemento.dir
+C:/Users/tetel/CLionProjects/arvore_binaria_maior_elemento/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tetel/CLionProjects/arvore_binaria_maior_elemento/cmake-build-debug/CMakeFiles/rebuild_cache.dir

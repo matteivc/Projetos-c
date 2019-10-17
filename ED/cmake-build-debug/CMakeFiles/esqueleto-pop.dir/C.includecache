@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tetel/CLionProjects/ED/esqueleto-pop.c
+pilha-lista.h
+C:/Users/tetel/CLionProjects/ED/pilha-lista.h
+
+C:/Users/tetel/CLionProjects/ED/lista-encadeada.h
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/tetel/CLionProjects/ED/pilha-lista.h
+stdio.h
+-
+stdlib.h
+-
+lista-encadeada.h
+C:/Users/tetel/CLionProjects/ED/lista-encadeada.h
+

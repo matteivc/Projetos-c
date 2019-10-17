@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libboeres1.a  CMakeFiles/boeres1.dir/library.c.obj
+C:\MinGW\bin\ranlib.exe libboeres1.a
